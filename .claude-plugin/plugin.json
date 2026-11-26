@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "react-power-up",
+  "version": "0.1.0",
+  "description": "Write secure, idiomatic React 19 + TypeScript code with Next.js App Router, React Router, TanStack Router and Query, Zustand, Redux Toolkit, React Hook Form and Zod, guided by version-aware best practices and anti-pattern guardrails; review changes or a commit with /react-power-up:review.",
+  "author": {
+    "name": "Milos Stojanovic"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "react19",
+    "typescript",
+    "nextjs",
+    "react-router",
+    "tanstack-router",
+    "tanstack-query",
+    "zustand",
+    "redux-toolkit",
+    "react-hook-form",
+    "zod",
+    "best-practices",
+    "code-review",
+    "security"
+  ]
+}

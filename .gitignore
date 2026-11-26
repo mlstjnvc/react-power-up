@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+
+# plugin eval output
+evals/results/

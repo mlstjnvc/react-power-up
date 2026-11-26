@@ -1,0 +1,15 @@
+{
+  "name": "mlsstjnvc",
+  "owner": {
+    "name": "Milos Stojanovic"
+  },
+  "description": "Marketplace for the best development practices, guardrails and code review for Claude Code.",
+  "plugins": [
+    {
+      "name": "react-power-up",
+      "source": "./",
+      "description": "Write secure, idiomatic React 19 + TypeScript code (Next.js, React Router, TanStack, Zustand, Redux Toolkit, React Hook Form, Zod); review changes or a commit with /react-power-up:review.",
+      "category": "development"
+    }
+  ]
+}
