@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-forms
+description: "Plain-language review of an RHF + Zod form and its Server Action, seeded with FORM-002, FORM-005, FORM-007 and FORM-008."
+tags: [review, plain, form]
+context:
+  scaffold_script: scaffold.sh

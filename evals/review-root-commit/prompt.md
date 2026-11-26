@@ -1,0 +1,7 @@
+---
+max_turns: 40
+timeout_seconds: 900
+allowed_tools: [Read, Glob, Grep, Skill, Bash]
+---
+
+/react-power-up:review 5b5d937

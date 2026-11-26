@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-rhf-zod-form
+description: "React Hook Form + Zod 4 registration form - zodResolver, z.infer, number coercion, field array keys, accessible errors."
+tags: [write, form]
+context:
+  scaffold_script: scaffold.sh

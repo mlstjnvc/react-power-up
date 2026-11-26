@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-list-filter
+description: Editable, filterable task list - stable keys, accessible controls, no 0-rendering, handlers passed not called.
+tags: [write, jsx]
+context:
+  scaffold_script: scaffold.sh

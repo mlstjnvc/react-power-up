@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-next-server-action
+description: "Next.js 16 settings form + Server Action - auth inside the action, schema validation, minimal props, redirect outside try, revalidation."
+tags: [write, next, form]
+context:
+  scaffold_script: scaffold.sh

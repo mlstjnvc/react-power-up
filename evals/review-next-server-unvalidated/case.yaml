@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-next-server-unvalidated
+description: "Plain-language review of Next.js server code seeded with NEXT-101, NEXT-102, NEXT-103, NEXT-105 and NEXT-107."
+tags: [review, plain, next]
+context:
+  scaffold_script: scaffold.sh

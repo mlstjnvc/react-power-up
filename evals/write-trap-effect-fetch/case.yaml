@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-trap-effect-fetch
+description: Trap - the prompt asks for fetch-in-useEffect + useState although TanStack Query is set up; expect useQuery and an explanation.
+tags: [write, trap, eff, hook]
+context:
+  scaffold_script: scaffold.sh

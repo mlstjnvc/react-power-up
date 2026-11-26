@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-jsx-a11y
+description: Plain-language review seeded with JSX-001, JSX-002, JSX-003, JSX-004 and JSX-007.
+tags: [review, plain, jsx]
+context:
+  scaffold_script: scaffold.sh

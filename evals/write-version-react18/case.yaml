@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-version-react18
+description: Same prompt as write-version-react19, on React 18.3 - forwardRef, onSubmit + manual pending state, no React 19 APIs.
+tags: [write, version, act, comp]
+context:
+  scaffold_script: scaffold.sh

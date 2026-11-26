@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-rr-loader-page
+description: "React Router v8 data mode - loader + action + Form, error boundary, react-router imports, Link."
+tags: [write, rr]
+context:
+  scaffold_script: scaffold.sh

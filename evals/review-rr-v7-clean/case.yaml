@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-rr-v7-clean
+description: "Clean control: React 18 + React Router v7 using react-router-dom; must approve and must not apply v8/React 19 rules."
+tags: [review, plain, rr, control, version]
+context:
+  scaffold_script: scaffold.sh

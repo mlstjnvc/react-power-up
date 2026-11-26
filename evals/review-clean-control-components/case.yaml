@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-clean-control-components
+description: Clean control - idiomatic React 19 components; the review must approve with no error findings.
+tags: [review, plain, control]
+context:
+  scaffold_script: scaffold.sh

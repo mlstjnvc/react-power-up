@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-no-test-setup
+description: "Project without any test tooling - Claude builds the feature, does not install test libraries, and offers to set up testing."
+tags: [write, test]
+context:
+  scaffold_script: scaffold.sh

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-perf-compiler
+description: "Plain-language review of a clean component with manual memoization in a React Compiler project - PERF-001 may only be info; no warn/error, approve."
+tags: [review, plain, perf, control]
+context:
+  scaffold_script: scaffold.sh

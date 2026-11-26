@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-zustand-store
+description: Zustand v5 store - typed curried create, selectors, useShallow for object selectors, derived total.
+tags: [write, state]
+context:
+  scaffold_script: scaffold.sh

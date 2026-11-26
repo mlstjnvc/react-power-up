@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-next-route-handler
+description: "Next.js 16 route handler - session auth, param validation, ownership filter, minimal response, proper status codes."
+tags: [write, next]
+context:
+  scaffold_script: scaffold.sh

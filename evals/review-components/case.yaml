@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-components
+description: Plain-language review of React 19 components seeded with COMP-001, COMP-002, COMP-011 and TS-006.
+tags: [review, plain, ts, comp]
+context:
+  scaffold_script: scaffold.sh

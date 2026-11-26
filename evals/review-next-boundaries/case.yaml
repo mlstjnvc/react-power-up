@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-next-boundaries
+description: "Plain-language review of a Next.js 16 page seeded with NEXT-001, NEXT-004, NEXT-005 and NEXT-006."
+tags: [review, plain, next]
+context:
+  scaffold_script: scaffold.sh

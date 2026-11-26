@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-tsr-misuse
+description: "Plain-language review of TanStack Router routes seeded with TSR-003, TSR-004, TSR-005 and TSR-006."
+tags: [review, plain, tsr]
+context:
+  scaffold_script: scaffold.sh

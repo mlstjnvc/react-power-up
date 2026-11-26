@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-tsr-search-list
+description: "TanStack Router + Query list page - validated search params, loaderDeps/ensureQueryData, typed links, no edits to routeTree.gen.ts."
+tags: [write, tsr, query]
+context:
+  scaffold_script: scaffold.sh

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-monorepo-detect
+description: "R6: pnpm monorepo with a Next 16 app and a Vite + React Router v8 app. A page in apps/admin must follow React Router library mode, not Next.js."
+tags: [write, rr, monorepo]
+context:
+  scaffold_script: scaffold.sh

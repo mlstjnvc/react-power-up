@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: trigger-pos-tsx-file
+description: "Prompt never says React: adding a component to an existing .tsx file must still fire the skill."
+tags: [trigger]
+context:
+  scaffold_script: scaffold.sh

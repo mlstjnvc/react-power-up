@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-tested-component
+description: "Project with Vitest 5 + RTL + user-event + MSW 3 set up - tests for an existing TodoList use role queries, user-event, findBy, MSW, fresh QueryClient."
+tags: [write, test]
+context:
+  scaffold_script: scaffold.sh

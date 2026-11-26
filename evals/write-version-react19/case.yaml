@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-version-react19
+description: Same prompt as write-version-react18, on React 19.2 - ref as a prop and React 19 Actions for pending state.
+tags: [write, version, act, comp]
+context:
+  scaffold_script: scaffold.sh

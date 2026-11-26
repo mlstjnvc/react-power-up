@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-rtk-slice
+description: Redux Toolkit in a Next.js App Router app - createSlice, typed hooks, serializable state, store per request.
+tags: [write, state, next]
+context:
+  scaffold_script: scaffold.sh

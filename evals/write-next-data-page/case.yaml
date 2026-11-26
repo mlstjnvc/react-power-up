@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: write-next-data-page
+description: "Next.js 16 App Router product page - server page, awaited params, client island, parallel fetch, Suspense, notFound."
+tags: [write, next]
+context:
+  scaffold_script: scaffold.sh

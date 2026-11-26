@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: review-security
+description: "Plain-language review seeded with SEC-001, SEC-002, SEC-006, SEC-007 and SEC-008."
+tags: [review, plain, sec]
+context:
+  scaffold_script: scaffold.sh
